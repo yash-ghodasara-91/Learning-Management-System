@@ -1,7 +1,7 @@
 import {BrowserRouter, Router,Route, Routes} from 'react-router-dom';
 import "bootstrap-icons/font/bootstrap-icons.css";
 import Nav from './Components/Nav';
-import Index from './Pages/index';
+import Index from "./Pages/Index";
 
 function App() {
 
